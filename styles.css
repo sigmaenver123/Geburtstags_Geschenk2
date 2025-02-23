@@ -1,0 +1,27 @@
+body
+{   
+    background-color: #001861;
+    text-align: center;
+    justify-content: center;
+}
+
+h1
+{
+    font-family: "Palatino Linotype";
+    text-shadow: 1px 5px 2px #A4A4A4;
+    text-align: center;
+    color: antiquewhite;
+}
+
+p
+{
+    font-family: "Palatino Linotype";
+    text-align: center;
+    color: antiquewhite;
+}
+
+a
+{
+    text-align: center;
+    color: azure;
+}
