@@ -2,7 +2,7 @@ body
 {   
     background-color: #001861;
     text-align: center;
-    justify-content: center;
+    padding: 25px
 }
 
 h1
@@ -23,5 +23,6 @@ p
 a
 {
     text-align: center;
+    justify-content: center;
     color: azure;
 }
